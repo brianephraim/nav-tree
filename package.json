@@ -1,0 +1,31 @@
+{
+  "name": "nav-tree",
+  "version": "0.1.0",
+  "description": "React Native Redux app navigation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defualt/nav-tree.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Redux",
+    "navigation"
+  ],
+  "author": "Brian Ephraim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defualt/nav-tree/issues"
+  },
+  "homepage": "https://github.com/defualt/nav-tree#readme",
+  "dependencies": {
+    "history": "^4.10.1",
+    "immer": "^6.0.3",
+    "lodash.debounce": "^4.0.8",
+    "shallowequal": "^1.1.0"
+  }
+}
